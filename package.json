@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/himanshu75451/Api-server-frail-show-474/issues"
   },
-  "homepage": "https://github.com/himanshu75451/Api-server-frail-show-474#readme"
+  "homepage": "https://github.com/himanshu75451/Api-server-frail-show-474#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
