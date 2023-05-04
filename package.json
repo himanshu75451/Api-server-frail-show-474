@@ -1,5 +1,5 @@
 {
-  "name": "frail-show-474",
+  "name": "api-server-frail-show-474",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Utkarash33/frail-show-474.git"
+    "url": "git+https://github.com/himanshu75451/Api-server-frail-show-474.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Utkarash33/frail-show-474/issues"
+    "url": "https://github.com/himanshu75451/Api-server-frail-show-474/issues"
   },
-  "homepage": "https://github.com/Utkarash33/frail-show-474#readme"
+  "homepage": "https://github.com/himanshu75451/Api-server-frail-show-474#readme"
 }
