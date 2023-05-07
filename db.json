@@ -12,7 +12,9 @@
           "images": "https://uploads-ssl.webflow.com/5b56319971ac8c7475a9d877/5c4f5622a29a8f65c7f25f3e_IMG_7728%20Neil%20Island%20(21).jpg",
           "price":19999,
           "package":"4 Nights / 5 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.2/10 Wonderful (1,009 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "CELLULAR JAIL,PORT BLAIR",
@@ -20,7 +22,9 @@
           "images": "https://lh3.googleusercontent.com/p/AF1QipN1mdi9n1D_pUWX9puWYXdNRAqihXvWdUs7Z8nG=s1360-w1360-h1020",
           "price":51000,
           "package":"4 Nights / 5 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "8.4/10 Excellent (469 reviews)",
+          "Rate" : 8.4
         },
         {
           "name": "CORBYN'S COVE,PORT BLAIR",
@@ -28,7 +32,9 @@
           "images": "https://live.staticflickr.com/982/40047849690_7a78e1f816_b.jpg",
           "price":28999,
           "package":"6 Nights / 7 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.2/10 Wonderful (809 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "SAMUDRIKA NAVAL MARINE MUSEUM,PORT BLAIR",
@@ -36,7 +42,9 @@
           "images": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/3b/7e/4a/img-20180223-101229-largejpg.jpg?w=1400&h=-1&s=1",
           "price":24057,
           "package":"6 Nights / 7 Days",
-          "catogary":"Museum"
+          "catogary":"Museum",
+          "Rating" : "9.2/10 Wonderful (2,009 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "HAVELOCK ISLAND(SWARAJ DWEEP)",
@@ -44,14 +52,16 @@
           "images": "https://www.tripsavvy.com/thmb/SF7NoKaUPvXKxBkDbmPrC-GSddU=/2121x1414/filters:fill(auto,1)/GettyImages-508601155-592e840f5f9b5859500d0724.jpg",
           "price":33499,
           "package":"6 Nights / 7 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.6/10 Wonderful (602 reviews)",
+          "Rate" : 9.6
         }
 
       ]
     },
     {
       "id": "2",
-      "name": "Punjab",
+      "location": "Punjab",
       "capital": "Chandigarh",
       "img": "https://bit.ly/2XjaMVx",
       "tourist": [
@@ -61,7 +71,9 @@
           "images": "https://iptb.b-cdn.net/wp-content/uploads/2018/07/Golden-Temple-Punjab-1.jpg",
           "price": 9999,
           "package": "2 Nights / 4 Days",
-          "catogary": "Temple"
+          "catogary": "Temple",
+          "Rating" : "9.8/10 Wonderful (12,000 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "BHAKRA NANGAL DAM",
@@ -69,7 +81,9 @@
           "images": "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201810/dam647_081117121907_1-x404.jpg?9FIZpe39SqXGiX7EIroLsVdcLWjDaUeV",
           "price": 12499,
           "package":"6 Nights / 7 Days",
-          "catogary":"Dam"
+          "catogary":"Dam",
+          "Rating" : "6.3/10 Good (119 reviews)",
+          "Rate" : 6.3
         },
         {
           "name": "SUKHNA LAKE",
@@ -77,21 +91,25 @@
           "images": "https://www.trawell.in/admin/images/upload/472763834Chandigarh_Sukhna_Lake_Main.jpg",
           "price": 28099,
           "package":"5 Nights / 6 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "7.2/10 Very Good (756 reviews)",
+          "Rate" : 7.2
         },
         {
           "name": "SHAHPUR KANDI FORT",
           "info": "The Shahpur Kandi Fort, named after Shah Jahan, nestles on the banks of the Ravi River in the picturesque foothills of the Himalayas. Located on the outer periphery of Pathankot, it was built in the 16th century, and stands surrounded by outstanding natural beauty. A part of the fort functions as a rest house today.Shahpur Kandi fort is located 7Kms from Pathankot and presently it has been converted into a beautiful rest house. It is named after Shah Jahan and was built by Bhao Singh in 16th Century. It is majestically located on the banks of river Ravi. There are a few small heritage monuments like tombs and a mosque.",
-          "images": "https://im.hunt.in/cg/Pathankot/City-Guide/Shahpur-Kandi-Fort-near-pathankot.jpg",
+          "images": "https://trickytravellers.com/uploads/posts/f21bcbfd-9983-429c-8683-3aab6b08c549",
           "price": 25099,
           "package":"4 Nights / 5 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "7.2/10 very Good (789 reviews)",
+          "Rate" : 7.2
         }
       ]
     },
     {
       "id": "3",
-      "name": "Rajasthan",
+      "location": "Rajasthan",
       "capital": "Jaipur",
       "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thar_Khuri.jpg",
       "tourist": [
@@ -101,7 +119,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s--QrPjqNho--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/046/475/original/1525775826_Jaipur_Main.jpg.jpg?1525775826",
           "price": 32000,
           "package":"5 Nights / 6 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "8.4/10 Excellent (409 reviews)",
+          "Rate" : 8.4
         },
         {
           "name": "Amber Palace",
@@ -109,7 +129,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s--UGQa1Iny--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/110/813/original/1492513727_amber_fort_4.jpg.jpg?1492513727",
           "price": 30499,
           "package":"5 Nights / 6 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "9.2/10 Wonderful (1,109 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Jantar Mantar",
@@ -117,7 +139,9 @@
           "images": "https://www.ritiriwaz.com/wp-content/uploads/2017/01/jantar-mantar.jpg",
           "price": 15099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "9.8/10 Wonderful (1,229 reviews)",
+          "Rate" : 9.8
         },
         {
           "name": "Hawa Mahal",
@@ -125,7 +149,9 @@
           "images": "https://www.holidify.com/images/bgImages/JAIPUR.jpg",
           "price": 18099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "9.7/10 Wonderful (2,299 reviews)",
+          "Rate" : 9.7
         },
         {
           "name": "Albert Hall Museum(Central  Museum)",
@@ -133,7 +159,9 @@
           "images": "https://live.staticflickr.com/2845/12542763994_d8b41967a3_b.jpg",
           "price": 12099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Fort"
+          "catogary":"Museum",
+          "Rating" : "7.8/10 Very Good (688 reviews)",
+          "Rate" : 7.8
         },
         {
           "name": "Jal Mahal",
@@ -141,7 +169,9 @@
           "images": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jal_Mahal_in_Man_Sagar_Lake.jpg",
           "price": 10099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "9.0/10 Wonderful (978 reviews)",
+          "Rate" : 9.0
         },
         {
           "name": "Chittorgarh Fort",
@@ -149,7 +179,9 @@
           "images": "https://www.chittorgarh.com/images/chittorgarh_fort.jpg",
           "price": 5000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "8.4/10 Excellent (409 reviewss)",
+          "Rate" : 8.4
         },
         {
           "name": "Jaisalmer",
@@ -157,7 +189,9 @@
           "images": "https://rajputanacabs.b-cdn.net/wp-content/uploads/2019/08/Desert-Camps-Sam-Sand-Dunes-RJ.jpg",
           "price": 26000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Desert" 
+          "catogary":"Desert",
+          "Rating" : "9.2/10 Wonderful (1,119 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Udaipur",
@@ -165,7 +199,9 @@
           "images": "https://i.pinimg.com/564x/19/9e/b1/199eb18c88ea67e177fb34cd5f72cb15.jpg",
           "price": 8000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Lake" 
+          "catogary":"Lake",
+          "Rating" : "9.5/10 Wonderful (2,039 reviews)",
+          "Rate" : 9.5
         },
         {
           "name": "Thar Desert",
@@ -173,21 +209,25 @@
           "images": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thar_Khuri.jpg",
           "price": 23000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Desert" 
+          "catogary":"Desert",
+          "Rating" : "9.2/10 Wonderful (1,109 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Pushkar",
           "info": "Pushkar is one of the holiest cities for the Hindus & a major tourist destination of Rajasthan, surrounded by desert sands. The sand dunes here are not as spectacular as that around Sam sand dunes Jaisalmer, but they are rated as the best places to go for exploring the rural village in Rajasthan. You can go on a camel ride here, or drive around in a camel cart to explore unseen regions of Thar Desert. The caretaker of the camel will be your guide & will share interesting facts about villages with you.",
-          "images": "https://www.travelsiteindia.com/blog/wp-content/uploads/2018/11/camel-ride-in-jaislmer-desert-cities-in-rajasthan.jpg",
+          "images": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/09/Two-camels-in-the-desert-of-Rajasthan-ss290920017.jpg",
           "price": 18000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Desert" 
+          "catogary":"Desert",
+          "Rating" : "8.4/10 Excellent (447 reviews)",
+          "Rate" : 8.4
         }
       ]
     },
     {
       "id": "4",
-      "name": "Kerala",
+      "location": "Kerala",
       "capital": "Thiruvananthapuram,",
       "img": "https://cdn.siasat.com/wp-content/uploads/2022/11/tourists-nov25.jpg",
       "tourist": [
@@ -197,7 +237,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s---dSM_iYr--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/126/889/original/1522671846_Munnar.jpg.jpg?1522671846",
           "price": 10099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "6.5/10 Good (679 reviews)",
+          "Rate" : 6.5
         },
         {
           "name": "Alleppey",
@@ -205,7 +247,9 @@
           "images": "https://miro.medium.com/max/2560/1*MjHGGH7V_SeoC9t2zmC-lA.jpeg",
           "price": 15000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "5.5/10 Average (229 reviews)",
+          "Rate" : 5.5
         },
         {
           "name": "Wayanad",
@@ -213,7 +257,9 @@
           "images": "https://www.wayanad.com/files/slides/3253378071.jpg",
           "price": 17100,
           "package":"3 Nights / 4 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "4.5/10 Average (239 reviews)",
+          "Rate" : 4.5
         },
         {
           "name": "Kochi",
@@ -221,7 +267,9 @@
           "images": "https://www.holidify.com/images/bgImages/KOCHI.jpg",
           "price": 10099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "9.2/10 Wonderful (1,104 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Thekkady",
@@ -229,7 +277,9 @@
           "images": "https://static.toiimg.com/photo/56892948/.jpg",
           "price": 11000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "9.1/10 Wonderful (1,119 reviews)",
+          "Rate" : 9.1
         },
         {
           "name": "Varkala",
@@ -237,7 +287,9 @@
           "images": "https://www.varkkala.com/uploads/slides/2435199045.jpg",
           "price": 14090,
           "package":"3 Nights / 4 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "4.5/10 Average (1,110 reviews)",
+          "Rate" : 4.5
         },
         {
           "name": "Poovar",
@@ -245,7 +297,9 @@
           "images": "https://www.keralatourism.org/images/service-providers/photos/property-3322-Exterior-11040-20180831082544.jpg",
           "price": 8000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "8.5/10 Excellent (779 reviews)",
+          "Rate" : 8.5
         },
         {
           "name": "Kovalam",
@@ -253,7 +307,9 @@
           "images": "https://www.kovalam.com/files/slides/8838110887.jpg",
           "price": 20199,
           "package": "3 Nights / 4 Days",
-          "catogary": "Beach"
+          "catogary": "Beach",
+          "Rating" : "8.3/10 Excellent (769 reviews)",
+          "Rate" : 8.3
         },
         {
           "name": "Kollam",
@@ -261,7 +317,9 @@
           "images": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Jatayu%E2%80%99s-Earth-Centre-kollam-kb6592.jpg",
           "price":4099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "8.1/10 Excellent (782 reviews)",
+          "Rate" : 8.1
         },
         {
           "name": "Trivandrum",
@@ -269,13 +327,15 @@
           "images": "https://images.thrillophilia.com/image/upload/s--xqlxdexK--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/037/624/original/trivandrum.jpg.jpg?1458192663",
           "price":7099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "8.4/10 Excellent (469 reviews)",
+          "Rate" : 8.4
         }
       ]
     },
     {
       "id": "5",
-      "name": "Maharashtra",
+      "location": "Maharashtra",
       "capital": "Mumbai",
       "img": "https://www.tripsavvy.com/thmb/sOKirs6tks8NcKlhytwechtqOm4=/4241x2386/smart/filters:no_upscale()/GettyImages-1008831236-5c65d6bf4cedfd00014aa310.jpg",
       "tourist": [
@@ -285,7 +345,9 @@
           "images": "https://static2.tripoto.com/media/filter/tst/img/254497/TripDocument/1460886004_cover.jpg",
           "price":11099,
           "package":"3 Nights / 4 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.6/10 Wonderful (2,330 reviews)",
+          "Rate" : 9.6
         },
         {
           "name": "Ajanta And Ellora Caves",
@@ -293,7 +355,9 @@
           "images": "https://static.toiimg.com/photo/52533940/.jpg",
           "price":12099,
           "package":"4 Nights / 5 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "8.7/10 Excellent (919 reviews)",
+          "Rate" : 8.7
         },
         {
           "name": "Panchgani",
@@ -301,7 +365,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s--sxUdO_kN--/c_fill,f_auto,fl_strip_profile,g_center,h_642,q_auto,w_1280/v1/images/photos/000/049/457/original/1553066319_panchgani_places_feature.jpg.jpg",
           "price":18090,
           "package":"4 Nights / 5 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "7.6/10 Very Good (976 reviews)",
+          "Rate" : 7.6
         },
         {
           "name": "Mahabaleshwar",
@@ -309,7 +375,9 @@
           "images": "https://www.holidify.com/images/bgImages/MAHABALESHWAR.jpg",
           "price":23000,
           "package":"4 Nights / 5 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "7.2/10 Very Good (756 reviews)",
+          "Rate" : 7.2
         },
         {
           "name": "Alibag",
@@ -317,7 +385,9 @@
           "images": "https://assets.architecturaldigest.in/photos/60800ec9b7b098a8ed586f33/16:9/pass/Alibag-kavita-singh.jpeg",
           "price":8000,
           "package":"2 Nights / 3 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.2/10 Wonderful (1,109 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Nashik",
@@ -325,7 +395,9 @@
           "images": "https://www.outlookindia.com/outlooktraveller/public/uploads/articles/explore/shutterstock_1359416978.jpg",
           "price":15500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "8.9/10 Excellent (2,229 reviews)",
+          "Rate" : 8.9
         },
         {
           "name": "Kashid",
@@ -333,7 +405,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s--KjcNvlyv--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/326/563/original/1593384354_kashid-beach-tour.jpg.jpg?1593384354",
           "price":20199,
           "package":"3 Nights / 4 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.2/10 Wonderful (1,109 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Aurangabad",
@@ -341,13 +415,15 @@
           "images": "https://www.holidify.com/images/bgImages/AURANGABAD.jpg",
           "price":18199,
           "package":"3 Nights / 4 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "6.5/10 Good (679 reviews)",
+          "Rate" : 6.5
         }
       ]
     },
     {
       "id": "6",
-      "name": "Uttarakhand",
+      "location": "Uttarakhand",
       "capital": "Dehradun",
       "img": "https://images.thrillophilia.com/image/upload/s--RZhmz_7S--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/082/491/original/1464188297_I2GZl5w7lL-1920x1080.jpg.jpg?1464188297",
       "tourist": [
@@ -357,7 +433,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s--n6G46YVa--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/013/585/original/1594791200_shutterstock_1137990866.jpg.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "9.2/10 Wonderful (1,209 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Nainital",
@@ -365,7 +443,9 @@
           "images": "https://www.holidify.com/images/bgImages/NAINITAL.jpg",
           "price":10500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "6.5/10 Good (449 reviews)",
+          "Rate" : 6.5
         },
         {
           "name": "Mussorie",
@@ -373,7 +453,9 @@
           "images": "https://www.holidify.com/images/bgImages/MUSSOORIE.jpg",
           "price":16500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "4.3/10 Average (1,009 reviews)",
+          "Rate" : 4.3
         },
         {
           "name": "Badrinath",
@@ -381,7 +463,9 @@
           "images": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/i4715cmnpd467ym1giq47l45euyv_1591255352_shutterstock_1435110059.jpg",
           "price":13250,
           "package":"4 Nights / 5 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "9.2/10 Wonderful (1,222 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Haridwar",
@@ -389,7 +473,9 @@
           "images": "https://www.holidify.com/images/bgImages/HARIDWAR.jpg",
           "price":15500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "9.6/10 Wonderful (2,009 reviews)",
+          "Rate" : 9.6
         },
         {
           "name": "Kedarnath",
@@ -397,7 +483,9 @@
           "images": "https://imgnew.outlookindia.com/public/uploads/articles/2021/3/11/kedarnath_20201113.jpg",
           "price":18500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "9.9/10 Wonderful (3,711 reviews)",
+          "Rate" : 9.9
         },
         {
           "name": "Auli",
@@ -405,7 +493,9 @@
           "images": "https://www.holidify.com/images/cmsuploads/compressed/sdfsdsdgsdgsdg_20181211083314.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain snowfall"
+          "catogary":"Mountain snowfall",
+          "Rating" : "4.2/10 Average (209 reviews)",
+          "Rate" : 4.2
         },
         {
           "name": "Dehradun",
@@ -413,7 +503,9 @@
           "images": "https://www.holidify.com/images/bgImages/DEHRADUN.jpg",
           "price":12500,
           "package":"3 Nights / 4 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "5.5/10 Average (229 reviews)",
+          "Rate" : 5.5
         },
         {
           "name": "Almora",
@@ -421,8 +513,9 @@
           "images": "https://www.holidify.com/images/bgImages/ALMORA.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain"
-  
+          "catogary":"Mountain",
+          "Rating" : "3.5/10 Average (109 reviews)",
+          "Rate" : 3.5
         },
         {
           "name": "Dhanaulti",
@@ -430,22 +523,26 @@
           "images": "https://www.holidify.com/images/foreign/compressed/attr_123716.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "3.2/10 Average (229 reviews)",
+          "Rate" : 3.2
       
         },
         {
           "name": "Ranikhet",
           "info": "Ranikhet meaning Queen's farm, is a hill station developed by the Britishers around ancient temples, undulating Himalayan hills and forests.Ranikhet with its cool climate and simple natural beauty can freshen up your senses to the very core. It is also popular as the Headquarters of the Kumaon Regiment of the Indian Army and has the Kumaon Regimental Centre Museum. The museum has a splendid display of weapons, photo etc. to introduce you the grandness and significance of military and its various historical instances. Ranikhet is popular for its views of the Nanda Devi Peak, trekking ranges, mountainous climbs, golf courses, orchards and temples.",
-          "images": "https://www.shrineyatra.com/wp-content/uploads/2021/12/Places-to-visit-in-Ranikhet.jpg",
+          "images": "https://www.tourmyindia.com/blog//wp-content/uploads/2016/02/Visiting-Ranikhet.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Hills"
+          "catogary":"Hills",
+          "Rating" : "4.0/10 Wonderful (299 reviews)",
+          "Rate" : 4.0
         }
       ]
     },
     {
       "id": "7",
-      "name": "Himachal Pradesh",
+      "location": "Himachal Pradesh",
       "capital": "Shimla",
       "img": "https://assets-news.housing.com/news/wp-content/uploads/2022/07/18131039/shimla-feature-compressed.jpg",
       "tourist": [
@@ -455,7 +552,9 @@
           "images": "https://www.holidify.com/images/bgImages/MANALI.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain Climbing"
+          "catogary":"Mountain Climbing",
+          "Rating" : "9.2/10 Wonderful (1,309 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Shimla",
@@ -463,7 +562,9 @@
           "images": "https://www.holidify.com/images/bgImages/SHIMLA.jpg",
           "price":17500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain Climbing"
+          "catogary":"Mountain Climbing",
+          "Rating" : "9.6/10 Wonderful (1,009 reviews)",
+          "Rate" : 9.6
         },
         {
           "name": "Mcleodganj",
@@ -471,7 +572,9 @@
           "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/McLeod_Ganj_Dharamkot_Dharmsala_Himachal_Pradesh_India_April_2014.jpg/417px-McLeod_Ganj_Dharamkot_Dharmsala_Himachal_Pradesh_India_April_2014.jpg",
           "price":23500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain Climbing"
+          "catogary":"Mountain Climbing",
+          "Rating" : "3.3/10 Average (219 reviews)",
+          "Rate" : 3.3
         },
         {
           "name": "Dalhousie",
@@ -479,7 +582,9 @@
           "images": "https://www.tourmyindia.com/states/himachal/images/beauty-of-himachal.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain"
+          "catogary":"Mountain",
+          "Rating" : "4.6/10 Average (339 reviews)",
+          "Rate" : 4.6
         },
         {
           "name": "Spiti Valley",
@@ -487,7 +592,9 @@
           "images": "https://www.holidify.com/images/bgImages/SPITI.jpg",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain"
+          "catogary":"Mountain",
+          "Rating" : "9.2/10 Wonderful (1,119 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Kasol",
@@ -495,7 +602,9 @@
           "images": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Kasol_3_l_800_1200.jpg",
           "price":22500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain"
+          "catogary":"Mountain",
+          "Rating" : "4.3/10 Average (422 reviews)",
+          "Rate" : 4.3
         },
         {
           "name": "Dharamshala",
@@ -503,7 +612,9 @@
           "images": "https://img.veenaworld.com/wp-content/uploads/2018/06/travel-dglobe.jpg?imwidth=1080",
           "price":14500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "7.7/10 Very Good (889 reviews)",
+          "Rate" : 7.7
         },
         {
           "name": "Kinnaur",
@@ -511,7 +622,9 @@
           "images": "https://images.thrillophilia.com/image/upload/s--GtWQwh90--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/142/609/original/1548921352_kinnaaaaur.jpg.jpg",
           "price":20000,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain"
+          "catogary":"Mountain",
+          "Rating" : "6.8/10 Good (456 reviews)",
+          "Rate" : 6.8
         },
         {
           "name": "Kufri",
@@ -519,7 +632,9 @@
           "images": "https://static.india.com/wp-content/uploads/2022/02/pjimage-2022-02-21T125513.893.jpg",
           "price":18500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain snowfall"
+          "catogary":"Mountain snowfall",
+          "Rating" : "5.8/10 Average (779 reviews)",
+          "Rate" : 5.8
         },
         {
           "name": "Chamba",
@@ -527,7 +642,9 @@
           "images": "https://www.adotrip.com/public/images/city/5c3db76cc2a50-Chamba%20Package%20Tour.jpg",
           "price":28000,
           "package":"4 Nights / 5 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "9.2/10 Wonderful (1,009 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Kheerganga Trek",
@@ -535,13 +652,15 @@
           "images": "https://www.lazymonkadventure.com/wp-content/uploads/2021/10/Kasol-Kheerganga-Trek-3-scaled.jpg",
           "price":29500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Mountain Climbing"
+          "catogary":"Mountain Climbing",
+          "Rating" : "7.3/10 Very Good (609 reviews)",
+          "Rate" : 7.3
         }
       ]
     },
     {
       "id": "8",
-      "name": "Gujarat",
+      "location": "Gujarat",
       "capital": "Gandhinagar",
       "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/11/12/753361-statueofunity-reuters-110118.jpg",
       "tourist": [
@@ -551,15 +670,19 @@
           "images": "https://en-media.thebetterindia.com/uploads/2022/08/Untitled-design-2022-08-27T121008.682-1661584220.jpg?compress=true&quality=80&w=400&dpr=2.6",
           "price": 9500,
           "package":"2 Nights / 3 Days",
-          "catogary":"Lake"
+          "catogary":"Lake",
+          "Rating" : "8.2/10 Excellent (989 reviews)",
+          "Rate" : 8.2
         },
         {
           "name": "Kutch",
           "info": "Virtually an island that resembles the shape of a tortoise, Kutch is an erstwhile princely state of India holding onto its grandeur nature from the past.Kutch is probably one of the most beautiful, yet surreal places in India. With the vast expanses of white salt desert in the Rann of Kutch area, this is an amazing experience to witness. One would be able to see just stretches of pure white land as far as the eyesight goes. The place comes to life during the winters when the Rann Festival is held during December-February everywhere in which there are huge camp settlements with cultural programs, functions and adventure activities like hot-air ballooning. Kutch is also among the largest district of India with a terribly low population density.",
-          "images": "https://www.rannutsav.com/assets/front/new/rann-bnr-1.jpg",
+          "images": "https://utsav.gov.in/public/uploads/event_cover_image/event_13/1649078511645355156.jpg",
           "price":8000,
           "package":"3 Nights / 4 Days",
-          "catogary":"Desert"
+          "catogary":"Desert",
+          "Rating" : "9.2/10 Wonderful (1,009 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Somnath",
@@ -567,7 +690,9 @@
           "images": "https://www.holidify.com/images/bgImages/SOMNATH.jpg",
           "price":23000,
           "package":"2 Nights / 3 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "9.8/10 Wonderful (3,009 reviews)",
+          "Rate" : 9.8
         },
         {
           "name": "Vadodara",
@@ -575,7 +700,9 @@
           "images": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0d/41/e6/b1/laxmi-vilas-palace.jpg",
           "price":5500,
           "package":"2 Nights / 3 Days",
-          "catogary":"Fort"
+          "catogary":"Fort",
+          "Rating" : "7.2/10 Very Good (716 reviews)",
+          "Rate" : 7.2
         },
         {
           "name": "Diu",
@@ -583,7 +710,9 @@
           "images": "https://dseventsco.in/wp-content/uploads/2019/07/daman-diu.jpg",
           "price":16500,
           "package":"4 Nights / 5 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "9.2/10 Wonderful (1,809 reviews)",
+          "Rate" : 9.2
         },
         {
           "name": "Bhuj",
@@ -591,7 +720,9 @@
           "images": "https://magarticles.magzter.com/articles/10916/256481/5a311b1033e14/Dadra-And-Nagar-Haveli.jpg",
           "price":2500,
           "package":"1 Nights / 2 Days",
-          "catogary":"Temple"
+          "catogary":"Temple",
+          "Rating" : "6.5/10 Good (569 reviews)",
+          "Rate" : 6.5
         },
         {
           "name": "Surat",
@@ -599,7 +730,9 @@
           "images": "https://hblimg.mmtcdn.com/content/hubble/img/surat/mmt/activities/m_activities_surat_ubharat_umbharat_beach_l_360_640.jpg",
           "price":8900,
           "package":"2 Nights / 3 Days",
-          "catogary":"Beach"
+          "catogary":"Beach",
+          "Rating" : "8.2/10 Excellent (989 reviews)",
+          "Rate" : 8.2
         }
       ]
     }
