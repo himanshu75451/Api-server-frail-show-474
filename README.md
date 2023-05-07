@@ -4,8 +4,6 @@ JSON Server link : https://frail-show.onrender.com/data
 
 
 
-https://github.com/michalsnik/aos
+Animate on scroll library :- https://github.com/michalsnik/aos
 
-
-
-https://codepen.io/redouan-aouadi/pen/GRpvbwZ?editors=1100
+Animate on scroll library :- https://codepen.io/redouan-aouadi/pen/GRpvbwZ?editors=1100
